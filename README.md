@@ -1,6 +1,6 @@
 ### oi oie👋
 
-meu nome é Thaynara Silva
+meu nome é **Thaynara Silva**
 
 -estudando na [Alura](https://www.alura.com.br)
 -basecamp:Estou me desenvolvendo na linguagem JavaScript
