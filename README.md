@@ -1,16 +1,13 @@
-## Hi there 👋
+### oi oie👋
 
-<!--
-**thaysilvat/thaysilvat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Thaynara Silva
 
-Here are some ideas to get you started:
+-estudando na [Alura](https://www.alura.com.br)
+-basecamp:Estou me desenvolvendo na linguagem JavaScript
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Você pode entrar em contato comigo 📫 
+
+00001070842783sp@al.educacao.sp.gov.br
+
+![](https://i.pinimg.com/originals/72/52/68/725268fca78011f13eccccd99cc4a031.gif)
